@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------
 # HIPAA Fax Web Scraper for Stroll Health Inc.
 # Author: Kevin Jiang
-# Reference: some code borrowed from www.HIPAA.com
+# Reference: some code borrowed from http://www.hipaaspace.com/
 #-----------------------------------------------------------------------
 
 import urllib.parse
